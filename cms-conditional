@@ -1,0 +1,4 @@
+<t:if test="matches(path, '.*/about/events/humane-lobby-days.html')">
+<meta property="og:title" content="If you don't speak up, who will?" />
+<meta property="og:description" content="One of 2017's biggest days for animals is coming up. It's up to you to tell your legislators that the welfare of animals is important – if you don't, who will? Sign up for Humane Lobby Day today." />
+</t:if>
